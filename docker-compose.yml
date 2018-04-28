@@ -7,7 +7,7 @@
 # $ sudo docker-compose up
 
 # after start, enter shell with:
-# $ sudo docker exec -it lighttpddocker_lighttpd_1 ash
+# $ sudo docker exec -it lighttpd-docker_lighttpd_1 ash
 
 lighttpd:
     build: .
